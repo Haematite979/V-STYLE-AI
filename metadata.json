@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Stylist",
+  "description": "An AI-powered wardrobe assistant that recommends and visualizes perfect outfits for any item you upload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
